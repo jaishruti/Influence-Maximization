@@ -1,0 +1,2 @@
+# Influence-Maximization
+Msc project 
